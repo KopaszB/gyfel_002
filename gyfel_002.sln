@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gyfel_002", "gyfel_002\gyfel_002.csproj", "{F1176EE5-1766-4152-965A-D28989F29009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1176EE5-1766-4152-965A-D28989F29009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1176EE5-1766-4152-965A-D28989F29009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1176EE5-1766-4152-965A-D28989F29009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1176EE5-1766-4152-965A-D28989F29009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB3E5CE5-0AAB-4690-99C0-05DACA0E3C60}
+	EndGlobalSection
+EndGlobal
